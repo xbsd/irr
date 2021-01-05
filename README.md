@@ -2,6 +2,9 @@
 ## IRR (Individual Research Report) Template for MS Business Analytics (UNOFFICIAL)
 ## (Please consult programme team for details)
 
+This template is also available at Overleaf if you want to skip installing LaTeX. Visit the following URL for the IRR Template (Unofficial)
+https://www.overleaf.com/edu/imperial#templates
+
 Imperial College London (Business Analytics) LaTeX IRR Template
 MSc Business Analytics (online delivery, part-time) 2018 - 20
 
