@@ -4,19 +4,16 @@
 Imperial College London (Business Analytics) LaTeX IRR Template
 MSc Business Analytics (online delivery, part-time) 2018 - 20
 
-```
-By making use of any template, you agree to the following:
+### By making use of any template, you agree to the following:
 
 NO WARRANTIES: All of the information provided on this template is provided "AS-IS" and with NO WARRANTIES. No express or implied warranties of any type, including for example implied warranties of merchantability or fitness for a particular purpose, are made with respect to the infor- mation, or any use of the information, on this template. Parties involved in preparing the template makes no representations and extends no warranties of any type as to the accuracy or complete- ness of any information or content on this website.
 
 DISCLAIMER OF LIABILITY: All parties involved in preparing the document specifically DISCLAIMS LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES OF ANY KIND and assumes no responsibility or liability for any loss or damage suffered as a result of the use or misuse of any of the information or content on this website. The parties involved in preparing the document assumes or undertakes NO LIABILITY for any loss or damage suffered as a result of the use, misuse or reliance on the information and content on this website. Use at your own risk.
-```
+
 
 # Official Notes from 2018-20 Session
 
-## Individual Research Report
-## Module Booklet
-## THE INDIVIDUAL RESEARCH REPORT
+## Individual Research Report Module Booklet
 
 - 1. INTRODUCTION Table of Contents
 - 2. HOW WILL YOUR INDIVIDUAL RESEARCH REPORT BE JUDGED?
